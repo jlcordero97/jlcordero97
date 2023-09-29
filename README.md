@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlcordero97
 - 👀 I’m interested in Math 
-- 🌱 I’m currently learning how to use Github
+- 🌱 I’m currently working in the Portfolio team
 - 💞️ I’m looking to collaborate on different data projects 
 - 📫 How to reach me jose.cordero@xepelin.com
 
